@@ -528,4 +528,5 @@ string getCurrentDateTime() {
     char* dt = ctime(&now);
     return string(dt);
 }/ /   A d d e d   t o t a l   e n e r g y   c a l c u l a t i o n  
+ / /   W e e k   2   c o m p l e t e  
  
