@@ -530,4 +530,5 @@ string getCurrentDateTime() {
 }/ /   A d d e d   t o t a l   e n e r g y   c a l c u l a t i o n  
  / /   W e e k   2   c o m p l e t e  
  / /   A d d e d   l o a d F r o m F i l e   f u n c t i o n  
+ / /   A d d e d   p r o f e s s i o n a l   f o r m a t t i n g  
  
