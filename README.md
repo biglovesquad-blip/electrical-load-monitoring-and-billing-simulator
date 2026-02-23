@@ -1,7 +1,7 @@
 # ⚡ ELECTRICAL LOAD MONITORING AND BILLING SIMULATOR
 
 ## 📋 PROJECT OVERVIEW
-This C++ console application simulates electrical load monitoring and electricity billing for small facilities or households. It was developed for the HND Electrical Engineering course (EEE 227) midterm capstone project.
+This C++ console application simulates electrical load monitoring and electricity billing for small facilities or households. It was developed for the HND Electrical Engineering course (EEE 227) midsem capstone project.
 
 ---
 
@@ -301,26 +301,8 @@ Course: EEE 227 (PT)
 
 Institution: ACCRA TECHNICAL UNIVERSITY
 
-📅 IMPORTANT DATES
-Event	Date
-Code Submission Deadline	February 23, 2026
-Project Demonstration	February 24, 2026
-🏆 PROJECT HIGHLIGHTS
-✅ 13 commits over 4 weeks (exceeds requirement)
 
-✅ Professional file formatting for all exports
-
-✅ 6 sample appliances with accurate calculations
-
-✅ Full input validation for error prevention
-
-✅ Clean, documented code with author headers
-
-✅ Working file I/O with data persistence
-
-✅ Professional README with all project details
-
-⭐ Project completed for EEE 227 Midterm Capstone Project
+⭐ Project completed for EEE 227 Midsem Capstone Project
 👨‍💻 Author: LOVE FOBI
 📅 February 2026
 🏫 ACCRA TECHNICAL UNIVERSITY
